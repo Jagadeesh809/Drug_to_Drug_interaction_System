@@ -1,4 +1,3 @@
-# SCORP – Drug Interaction & Side Effect Predictor
+# DRUG - DRUG INTERACTION SYSTEM
 
-SCORP is an AI-powered tool that uses a **Large Language Model (LLM)** to predict **drug–drug interactions** and **potential side effects**.  
-It helps healthcare professionals identify risky drug combinations and supports safer prescription decisions using intelligent natural language understanding.
+Built an ai system to predict whether taking multiple drugs can be risky, safe or needs caution. using MACHINE LEARNING models like LOGISTIC REGRESSION and RANDOM FOREST and integrated NER to extract drug names automatically from the user input.
